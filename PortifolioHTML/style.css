@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(61, 59, 59);
+}
+
+body{
+    background-color: rgba(19, 19, 24, 0.884);
+}
+
+header a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+
+header a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
