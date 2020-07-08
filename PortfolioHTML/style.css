@@ -64,10 +64,17 @@ a:hover{
 }
 
 footer{
-    margin: 30px 0px 20px 0px;
-    font-size: 20px;
+    margin: 30px 0px 0px 0px;
+    font-size: 15px;
     text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 139, 139,0.1);
+    /* position:absolute;
+    bottom:0;
+    width:100%; */
 }
+
+
 
 ul { 
     display:table; 
@@ -80,7 +87,7 @@ em, strong{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.js{
+/* .js{
     font-size: 22px;
 }
 
@@ -94,7 +101,7 @@ em, strong{
 
 .c{
     font-size: 13px;
-}
+} */
 
 /* Requisitos aula 3 */
 
@@ -121,6 +128,29 @@ em, strong{
 }
 
 .middle{
+    text-align: center; 
+    line-height:25px; 
+    font-size:18px;
+}
+
+.middle-left{
+    width: 50%;  
+    float:left;
+    background-color: rgba(0, 0, 139,0.7); 
+}
+.middle-right{
+    float: right;
+    width: 50%;
+    background-color: rgba(140, 0, 0,0.4);
+}
+
+.bottom{
     clear: both;
+    margin-top: 280px;
     text-align: center;
+}
+
+.impar{
+    text-decoration: underline;
+    font-weight: bold;
 }
