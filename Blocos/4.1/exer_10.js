@@ -8,6 +8,10 @@ let valorVenda = 50;
 
 let lucro = 0;
 
+if(custoProduto > 0 && valorVenda > 0){
 lucro = (valorVenda - (custoProduto + (custoProduto * 0.2) )) * 1000;
-console.log(lucro);
-
+console.log(`Lucro foi: ${lucro}`);
+}
+else{
+  console.log("Um dos Valores menores que 0");
+}
