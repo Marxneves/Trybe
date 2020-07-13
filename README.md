@@ -21,17 +21,17 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 3-2: *HTML & CSS - Getting Started with CSS*
 - [x] 3-3: *HTML & CSS - Selectors and positioning*
 - [x] 3-4: *Semantic HTML*
-- [] 3-5: *[Project - HTML & CSS](https://marxneves.github.io/Trybe/Projetos/PortfolioHTML/)*
-<!-- ##### Block 4: Introduction - JavaScript
+- [x] 3-5: *[Project - HTML & CSS] <!--(https://marxneves.github.io/Trybe/Projetos/PortfolioHTML/) !-->*
+##### Block 4: Introduction - JavaScript
 - [x] 4-1: *JavaScript - Getting Started*
-- [x] 4-2: *JavaScript - For Array and Loop*
-- [x] 4-3: *JavaScript - Programming Logic and Algorithms*
-- [x] 4-4: *JavaScript - Objects and functions*
-- [x] 4-5: *JavaScript - DOM and selectors*
-- [x] 4-6: *JavaScript - Working with elements*
-- [x] 4-7: *JavaScript - Events*
-- [x] 4-8: *JavaScript - Web Storage*
-##### Block 5: Introduction - JavaScript - Projects
+- [] 4-2: *JavaScript - For Array and Loop*
+- [] 4-3: *JavaScript - Programming Logic and Algorithms*
+- [] 4-4: *JavaScript - Objects and functions*
+- [] 4-5: *JavaScript - DOM and selectors*
+- [] 4-6: *JavaScript - Working with elements*
+- [] 4-7: *JavaScript - Events*
+- [] 4-8: *JavaScript - Web Storage*
+<!-- ##### Block 5: Introduction - JavaScript - Projects
 - [x] 5-1: *[Project - Meme Generator](https://marxneves.github.io/meme-generator/)*
 - [x] 5-2: *[Project - Art with Pixels](https://marxneves.github.io/pixel-art/)*
 - [x] 5-3: *[Project - To Do List](https://marxneves.github.io/to-do-list/)*
