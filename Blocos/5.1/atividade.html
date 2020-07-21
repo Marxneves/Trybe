@@ -6,15 +6,18 @@ Por fim, recupere o subtítulo e altere-o também. -->
 <html>
   <body>
     <h2 id="page-title">Título</h2>
-    <p id="paragraph">Dê uma cor para este parágrafo!</p>
+    <p id="paragraph" class="paragrafos">Dê uma cor para este parágrafo!</p>
     <h4 id="subtitle">Subtítulo</h4>
-    <p id="second-paragraph">Segundo parágrafo!</p>
+    <p id="second-paragraph" class="paragrafos">Segundo parágrafo!</p>
 
     <script>
       document.getElementById("page-title").innerHTML = 'Avengers';
       paragraph.style.color = "blue";
       document.getElementById('second-paragraph').innerHTML = 'Uma nova aventura';
       document.getElementById('subtitle').innerText = 'Alterando o texto';
+      let paragrafo1 = document.getElementsByClassName('paragrafos')[0]
+      paragrafo1.style.color = 'red'
+      document.getElementsByTagName('h4')[0].innerHTML = 'Recuperado pela TAG h4'
     </script>
   </body>
 </html>
