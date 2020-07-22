@@ -1,0 +1,23 @@
+<!-- Recupere o elemento que contém o título da página e faça algo com ele, como alterá-lo para o nome do seu filme favorito.
+Agora recupere o segundo parágrafo e use sua criatividade para alterá-lo.
+Por fim, recupere o subtítulo e altere-o também. -->
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2 id="page-title">Título</h2>
+    <p id="paragraph" class="paragrafos">Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p id="second-paragraph" class="paragrafos">Segundo parágrafo!</p>
+
+    <script>
+      document.getElementById("page-title").innerHTML = 'Avengers';
+      paragraph.style.color = "blue";
+      document.getElementById('second-paragraph').innerHTML = 'Uma nova aventura';
+      document.getElementById('subtitle').innerText = 'Alterando o texto';
+      let paragrafo1 = document.getElementsByClassName('paragrafos')[0]
+      paragrafo1.style.color = 'red'
+      document.getElementsByTagName('h4')[0].innerHTML = 'Recuperado pela TAG h4'
+    </script>
+  </body>
+</html>

@@ -24,47 +24,48 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 3-5: *[Project - HTML & CSS] <!--(https://marxneves.github.io/Trybe/Projetos/PortfolioHTML/) !-->*
 ##### Block 4: Introduction - JavaScript
 - [x] 4-1: *JavaScript - Getting Started*
-- [] 4-2: *JavaScript - For Array and Loop*
-- [] 4-3: *JavaScript - Programming Logic and Algorithms*
-- [] 4-4: *JavaScript - Objects and functions*
-- [] 4-5: *JavaScript - DOM and selectors*
-- [] 4-6: *JavaScript - Working with elements*
-- [] 4-7: *JavaScript - Events*
-- [] 4-8: *JavaScript - Web Storage*
-<!-- ##### Block 5: Introduction - JavaScript - Projects
-- [x] 5-1: *[Project - Meme Generator](https://marxneves.github.io/meme-generator/)*
-- [x] 5-2: *[Project - Art with Pixels](https://marxneves.github.io/pixel-art/)*
-- [x] 5-3: *[Project - To Do List](https://marxneves.github.io/to-do-list/)*
+- [x] 4-2: *JavaScript - For Array and Loop*
+- [x] 4-3: *JavaScript - Programming Logic and Algorithms*
+- [x] 4-4: *JavaScript - Objects and functions*
+- [x] 4-5: *JavaScript - Project - Playground Functions*
+##### Block 5: Introduction - JavaScript - HTML
+- [x] 5-1: *JavaScript - DOM and selectors*
+- [] 5-2: *JavaScript - Working with elements*
+- [] 5-3: *JavaScript - Events*
+- [] 5-4: *JavaScript - Web Storage*
+- [] 5-5: *[Project - Meme Generator](https://marxneves.github.io/meme-generator/)*
+- [] 5-6: *[Project - Art with Pixels](https://marxneves.github.io/pixel-art/)*
+- [] 5-7: *[Project - To Do List](https://marxneves.github.io/to-do-list/)*
 
-## Front-end development :hourglass_flowing_sand:
+<!-- ## Front-end development :hourglass_flowing_sand:
 ##### Block 6: Introduction - Front-end
 - [x] 6-1: *HTML & CSS - Forms*
 - [x] 6-2: *JavaScript libraries and CSS frameworks*
 - [x] 6-3: *CSS Flexbox - Part 1*
 - [x] 6-4: *CSS Flexbox - Part 2*
 - [x] 6-5: *CSS Responsivo - Mobile first*
-- [x] 6-6: *[Project - Facebook signup page](https://marxneves.github.io/facebook/)*
+- [x] 6-6: *[Project - Facebook signup page](https://marxneves.github.io/facebook/)* -->
 
-##### Block 7: Javascript ES6
+<!-- ##### Block 7: Javascript ES6
 - [x] 7-1: *Let, const, arrow functions & template literals*
 - [x] 7-2: *Objects*
 - [x] 7-3: *Unit tests*
 - [x] 7-4: *Testing baby steps (TDD)*
-- [x] 7-5: *Project - Unit tests practice with npm*
+- [x] 7-5: *Project - Unit tests practice with npm* -->
 
-##### Block 8: Javascript Higher Order Functions (HOFs)
+<!-- ##### Block 8: Javascript Higher Order Functions (HOFs)
 - [x] 8-1: *forEach, find, filter, some, every, sort*
 - [x] 8-2: *map, reduce*
 - [x] 8-3: *ES6 features: spread, rest, destructuring, abbreviation object literal and default parameters*
-- [x] 8-4: *Project - Zoo Functions*
+- [x] 8-4: *Project - Zoo Functions* -->
 
-##### Block 9: Jest, Javascript asynchronous, callbacks and promises
+<!-- ##### Block 9: Jest, Javascript asynchronous, callbacks and promises
 - [x] 9-1: *First steps using Jest*
 - [x] 9-2: *Javascript asynchronous and callbacks*
 - [x] 9-3: *Javascript Promises*
-- [x] 9-4: *Project - Shopping Cart*
+- [x] 9-4: *Project - Shopping Cart* -->
 
-##### Block 10: Testing asynchronous code with Jest
+<!-- ##### Block 10: Testing asynchronous code with Jest
 - [x] 10-1: *Testing asynchronous code*
 - [x] 10-1: *Simulating behaviours* -->
 
