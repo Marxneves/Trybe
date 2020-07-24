@@ -64,15 +64,13 @@
 
       //2- Adicione a tag div com a classe main-content como filho da tag body;
       let div = document.createElement('div');
-      // div.setAttribute('className','main-content');
       div.className = 'main-content'
       document.body.appendChild(div);
 
       //3- Adicione a tag div com a classe center-content como filho da tag div criada no passo 2;
       let divCenter = document.createElement('div');
-      // divCenter.setAttribute('className','center-content');
       divCenter.className = 'center-content'
-      document.body.appendChild(divCenter);
+      document.querySelector('.main-content').appendChild(divCenter);
       
       //4- Adicione a tag p como filho do div criado no passo 3 e coloque algum texto;
       let pCenter = document.createElement('p');
@@ -87,13 +85,13 @@
       //6- Adicione a tag div com a classe right-content como filho da tag div criada no passo 2;
       let divRight = document.createElement('div');
       divRight.className = 'right-content';
-      document.querySelectorAll('div')[0].appendChild(divRight);
+      document.querySelector('.main-content').appendChild(divRight);
 
       //7- Adicione uma imagem com src configurado para o valor https://picsum.photos/200 e classe small-image. Esse elemento deve ser filho do div criado no passo 5;
       let img = document.createElement('img');
       img.src = 'https://picsum.photos/200';
       img.className = 'small-image';
-      document.querySelectorAll('div')[1].appendChild(img);
+      document.querySelector('.left-content').appendChild(img);
       
       //8- Adicione uma lista não ordenada com os valores de 1 a 10 por extenso, ou seja, um, dois, três, ... como valores da lista. Essa lista deve ser filha do div criado no passo 6;
       let list = document.createElement('ul');
@@ -111,22 +109,37 @@
       list.childNodes[7].innerText = "oito";
       list.childNodes[8].innerText = "nove";
       list.childNodes[9].innerText = "dez";
-      document.querySelectorAll('div')[2].appendChild(list);
+      document.querySelector('.right-content').appendChild(list);
 
       //9- Adicione 3 tags h3, todas sendo filhas do div criado no passo 2.
-       
+       let fisth3 = document.createElement('h3');
+       let secondh3 = document.createElement('h3');
+       let thirdh3 = document.createElement('h3');
+       document.querySelector('.main-content').appendChild(fisth3);
+       document.querySelector('.main-content').appendChild(secondh3);
+       document.querySelector('.main-content').appendChild(thirdh3);
       
-      // Adicione a classe title na tag h1 criada;
+      // Segunda parte
+      //1- Adicione a classe title na tag h1 criada;
+      h1.className = 'title';
 
-      // Adicione a classe description nas 3 tags h3 criadas;
+      //2- Adicione a classe description nas 3 tags h3 criadas;
+      let descriptionH3 = document.querySelectorAll('h3');
+      descriptionH3[0].className = 'description';
+      descriptionH3[1].className = 'description';
+      descriptionH3[2].className = 'description';
 
-      // Remova o div criado no passo 5 (aquele que possui a classe left-content). Utilize a função .removeChild();
-
-      // Centralize o div criado no passo 6 (aquele que possui a classe right-content). Dica: para centralizar, basta configurar o margin-right: auto do div;
-
-      // Troque a cor de fundo do elemento pai da div criada no passo 3 (aquela que possui a classe center-content) para a cor verde;
-
-      // Remova os dois últimos elementos (nove e dez) da lista criada no passo 8.
+      //3- Remova o div criado no passo 5 (aquele que possui a classe left-content). Utilize a função .removeChild();
+      document.querySelector('.main-content').removeChild(divLeft);
+      //4- Centralize o div criado no passo 6 (aquele que possui a classe right-content). Dica: para centralizar, basta configurar o margin-right: auto do div;
+      divRight.style.marginRight = 'auto';
+      //5- Troque a cor de fundo do elemento pai da div criada no passo 3 (aquela que possui a classe center-content) para a cor verde;
+      divCenter.parentNode.style.backgroundColor = 'green';
+      //6- Remova os dois últimos elementos (nove e dez) da lista criada no passo 8.
+      let ultimo = document.querySelector('ul').lastChild;
+      document.querySelector('ul').removeChild(ultimo);
+      let penultimo = document.querySelector('ul').lastChild;
+      document.querySelector('ul').removeChild(penultimo);
     </script>
   </body>
 </html>
