@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+  <div id="paiDoPai">
+    <div id="pai">
+      <div id="primeiroFilho"></div>
+      <div id="elementoOndeVoceEsta">
+        <div id="primeiroFilhoDoFilho"></div>
+        <div id="segundoEUltimoFilhoDoFilho"></div>
+      </div>
+      Atenção!
+      <div id="terceiroFilho"></div>
+      <div id="quartoEUltimoFilho"></div>
+    </div>
+  </div>
+</body>
+
+<script>
+  let onde = document.getElementById('elementoOndeVoceEsta').parentNode.style.color = 'red';
+  console.log(onde);
+
+  document.querySelector('#primeiroFilhoDoFilho').innerHTML = 'Um novo texto ';
+
+  let filho = document.getElementById('pai').firstChild.nextElementSibling;
+  console.log(filho);
+
+  let primeiroFilho = document.getElementById('elementoOndeVoceEsta').previousElementSibling;
+  console.log(primeiroFilho);
+
+  let text = document.getElementById('elementoOndeVoceEsta').parentNode.innerText;
+  console.log(text);
+
+  let terceiroFilho = document.getElementById('elementoOndeVoceEsta').nextElementSibling;
+  console.log(terceiroFilho);
+
+   terceiroFilho = document.getElementById('pai').lastChild.previousElementSibling.previousElementSibling
+  console.log(terceiroFilho);
+</script>
+</html>

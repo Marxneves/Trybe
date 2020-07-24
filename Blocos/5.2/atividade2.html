@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+  <div id="paiDoPai">
+    <div id="pai">
+      <div id="primeiroFilho"></div>
+      <div id="elementoOndeVoceEsta">
+        <div id="primeiroFilhoDoFilho"></div>
+        <div id="segundoEUltimoFilhoDoFilho"></div>
+      </div>
+      Atenção!
+      <div id="terceiroFilho"></div>
+      <div id="quartoEUltimoFilho"></div>
+    </div>
+  </div>
+</body>
+
+<script>
+    let brother = document.createElement('div');
+    brother.setAttribute('id','brotherElemendoOndeVoceEsta')
+    document.getElementById('pai').appendChild(brother);
+
+    let son = document.createElement('div');
+    son.setAttribute('id','filhoDoElementoOndeVoceEsta')
+    document.getElementById('elementoOndeVoceEsta').appendChild(son);
+
+    let sonOfFistSon = document.createElement('div');
+    sonOfFistSon.setAttribute('id','filhoDoPrimeiroFilhoDoFilho')
+    document.getElementById('primeiroFilhoDoFilho').appendChild(sonOfFistSon);
+
+    let terceiro = document.getElementById('filhoDoPrimeiroFilhoDoFilho').parentNode.parentNode.nextElementSibling
+    console.log(terceiro);
+</script>
+</html>
