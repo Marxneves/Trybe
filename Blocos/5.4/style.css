@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header h1{
+  padding: 30px;
+  background-color: darkcyan;
+  color: black;
+  text-align: center;
+}
