@@ -12,15 +12,28 @@
       let img = document.querySelector('img');
       img.style.left = '0px';
       let imgLeft = parseInt(img.style.left);
+      let w = window.innerWidth;
+      let h = window.innerHeight;
+      let leftToRight = true;
       function catWalk(){
-        imgLeft += 10;
-        img.style.left = (imgLeft + 10)+'px'; 
+        if(imgLeft >= (w - img.width)){
+          leftToRight = false;
+        } 
+        if(imgLeft < 0){
+          leftToRight = true;
+        }
+        if(leftToRight){
+          imgLeft += 10;
+          img.style.left = imgLeft + 'px';
+        }else{
+          imgLeft -= 10;
+          img.style.left = imgLeft + 'px';
+        }
       }
        window.setInterval(catWalk,50);
 
-      // let w = window.innerWidth;
-      // let h = window.innerHeight;
-      // console.log('Width:' + w +' ' + 'Height:'+h);
+
+
   </script>
  </body>
 </html>
