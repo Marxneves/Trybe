@@ -1,11 +1,21 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-header h1{
+header {
   padding: 30px;
-  background-color: darkcyan;
+  /* background-color: darkcyan; */
   color: black;
+}
+h1 {
   text-align: center;
+}
+
+p {
+margin: 20px;
+}
+
+nav {
+  line-height: 30px;
 }
