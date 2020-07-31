@@ -21,7 +21,7 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 3-2: *HTML & CSS - Getting Started with CSS*
 - [x] 3-3: *HTML & CSS - Selectors and positioning*
 - [x] 3-4: *Semantic HTML*
-- [x] 3-5: *[Project - HTML & CSS] <!--(https://marxneves.github.io/Trybe/Projetos/PortfolioHTML/) !-->*
+- [x] 3-5: *[Project - HTML & CSS](https://marxneves.github.io/Trybe/Projetos/PortfolioHTML/)*
 ##### Block 4: Introduction - JavaScript
 - [x] 4-1: *JavaScript - Getting Started*
 - [x] 4-2: *JavaScript - For Array and Loop*
@@ -33,18 +33,20 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 5-2: *JavaScript - Working with elements*
 - [X] 5-3: *JavaScript - Events*
 - [X] 5-4: *JavaScript - Web Storage*
-- [] 5-5: *[Project - Meme Generator](https://marxneves.github.io/meme-generator/)*
-- [] 5-6: *[Project - Art with Pixels](https://marxneves.github.io/pixel-art/)*
-- [] 5-7: *[Project - To Do List](https://marxneves.github.io/to-do-list/)*
+- [x] 5-5: *[Project - Meme Generator](https://marxneves.github.io/Trybe/Projetos/meme-generator/)*
+- [x] 5-6: *[Project - Art with Pixels](https://marxneves.github.io/Trybe/Projetos/pixel-art/)*
+- [x] 5-7: *[Project - To Do List](https://marxneves.github.io/Trybe/Projetos/to-do-list/)*
+- [x] 5-8: *[Bonus Project - Color Guess](https://marxneves.github.io/Trybe/Projetos/color-guess/)*
+- [x] 5-9: *[Bonus Project - Mistery Letter](https://marxneves.github.io/Trybe/Projetos/mistery-letter/)*
 
-<!-- ## Front-end development :hourglass_flowing_sand:
+## Front-end development :hourglass_flowing_sand:
 ##### Block 6: Introduction - Front-end
 - [x] 6-1: *HTML & CSS - Forms*
-- [x] 6-2: *JavaScript libraries and CSS frameworks*
-- [x] 6-3: *CSS Flexbox - Part 1*
-- [x] 6-4: *CSS Flexbox - Part 2*
-- [x] 6-5: *CSS Responsivo - Mobile first*
-- [x] 6-6: *[Project - Facebook signup page](https://marxneves.github.io/facebook/)* -->
+- [] 6-2: *JavaScript libraries and CSS frameworks*
+- [] 6-3: *CSS Flexbox - Part 1*
+- [] 6-4: *CSS Flexbox - Part 2*
+- [] 6-5: *CSS Responsivo - Mobile first*
+- [] 6-6: *[Project - Facebook signup page](https://marxneves.github.io/facebook/)*
 
 <!-- ##### Block 7: Javascript ES6
 - [x] 7-1: *Let, const, arrow functions & template literals*
