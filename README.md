@@ -34,7 +34,7 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [X] 5-3: *JavaScript - Events*
 - [X] 5-4: *JavaScript - Web Storage*
 - [x] 5-5: *[Project - Meme Generator](https://marxneves.github.io/Trybe/Projetos/meme-generator/)*
-- [x] 5-6: *[Project - Art with Pixels](https://marxneves.github.io/Trybe/Projetos/pixel-art/)*
+- [x] 5-6: *[Project - Art with Pixels](https://marxneves.github.io/Trybe/Projetos/pixels-art/)*
 - [x] 5-7: *[Project - To Do List](https://marxneves.github.io/Trybe/Projetos/to-do-list/)*
 - [x] 5-8: *[Bonus Project - Color Guess](https://marxneves.github.io/Trybe/Projetos/color-guess/)*
 - [x] 5-9: *[Bonus Project - Mistery Letter](https://marxneves.github.io/Trybe/Projetos/mistery-letter/)*
