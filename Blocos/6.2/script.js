@@ -8,3 +8,6 @@ for (let i in estados) {
   option.value = estados[i];
   select.appendChild(option);
 }
+
+validation.init();
+// document.getElementById('data').DatePickerX.init();
