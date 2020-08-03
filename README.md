@@ -42,7 +42,7 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 ## Front-end development :hourglass_flowing_sand:
 ##### Block 6: Introduction - Front-end
 - [x] 6-1: *HTML & CSS - Forms*
-- [] 6-2: *JavaScript libraries and CSS frameworks*
+- [x] 6-2: *JavaScript libraries and CSS frameworks*
 - [] 6-3: *CSS Flexbox - Part 1*
 - [] 6-4: *CSS Flexbox - Part 2*
 - [] 6-5: *CSS Responsivo - Mobile first*
