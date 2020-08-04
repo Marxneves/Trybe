@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  max-width: 900px;
+  margin: auto;
+  width: 100%;
+}
+
+label {
+  margin: 0px;
+}
+
+button {
+  margin-bottom: 20px;
+}
+button + button{
+  margin-left: 20px;
+}
