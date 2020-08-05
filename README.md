@@ -44,7 +44,7 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 6-1: *HTML & CSS - Forms*
 - [x] 6-2: *JavaScript libraries and CSS frameworks*
 - [x] 6-3: *CSS Flexbox - Part 1*
-- [] 6-4: *CSS Flexbox - Part 2*
+- [x] 6-4: *CSS Flexbox - Part 2*
 - [] 6-5: *CSS Responsivo - Mobile first*
 - [] 6-6: *[Project - Facebook signup page](https://marxneves.github.io/facebook/)*
 
