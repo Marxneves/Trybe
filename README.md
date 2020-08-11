@@ -45,15 +45,15 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 6-2: *JavaScript libraries and CSS frameworks*
 - [x] 6-3: *CSS Flexbox - Part 1*
 - [x] 6-4: *CSS Flexbox - Part 2*
-- [x] 6-5: *CSS Responsivo - Mobile first*
-- [] 6-6: *[Project - Facebook signup page](https://marxneves.github.io/facebook/)*
+- [X] 6-5: *CSS Responsivo - Mobile first*
+- [x] 6-6: *[Project - Facebook signup page](https://marxneves.github.io/Trybe/Projetos/facebook/)*
 
-<!-- ##### Block 7: Javascript ES6
+##### Block 7: Javascript ES6
 - [x] 7-1: *Let, const, arrow functions & template literals*
-- [x] 7-2: *Objects*
-- [x] 7-3: *Unit tests*
-- [x] 7-4: *Testing baby steps (TDD)*
-- [x] 7-5: *Project - Unit tests practice with npm* -->
+- [] 7-2: *Objects*
+- [] 7-3: *Unit tests*
+- [] 7-4: *Testing baby steps (TDD)*
+- [] 7-5: *Project - Unit tests practice with npm*
 
 <!-- ##### Block 8: Javascript Higher Order Functions (HOFs)
 - [x] 8-1: *forEach, find, filter, some, every, sort*
