@@ -103,3 +103,33 @@
   }
 }
 
+@media (max-width: 700px) {
+  #aside {
+    display: none;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  #content {
+    width: 100%
+  }
+
+  #header {
+    margin-top: 84px;
+  }
+  #navigation {
+    position: fixed;
+    top: 0;
+  }
+  #navigation ul{
+    display: flex;
+    flex-direction: column;
+  }
+
+  #navigation ul a{
+    border: 0;
+  }
+}
