@@ -1,0 +1,65 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.2rem;
+}
+
+header p{
+  font-size: 2rem;
+  text-align: center;
+}
+
+header nav {
+  font-size: 1.8rem;
+}
+
+@media (min-width: 1000px) {
+  body {
+    font-size: 1.6rem;
+    margin: 5px;
+  }
+
+  header p{
+    font-size: 3.3rem;
+  }
+  
+  header nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 2.3rem;
+  }
+
+  .asides {
+    display: flex;
+    justify-content: space-around;
+  }
+
+}
+
+
+@media (min-width: 1400px) {
+  body {
+    font-size: 1.8rem;
+    margin: 5px;
+  }
+
+  header p{
+    font-size: 5rem;
+  }
+  
+  header nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 3.2rem;
+    list-style: none;
+  }
+
+}
+
