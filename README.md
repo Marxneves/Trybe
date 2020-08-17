@@ -56,10 +56,11 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 7-5: *Project - Unit tests practice with npm*
 
 ##### Block 8: Javascript Higher Order Functions (HOFs)
-- [x] 8-1: *forEach, find, filter, some, every, sort*
-- [] 8-2: *map, reduce*
-- [] 8-3: *ES6 features: spread, rest, destructuring, abbreviation object literal and default parameters*
-- [] 8-4: *Project - Zoo Functions*
+- [x] 8-1: *forEach, find, some, every, sort*
+- [] 8-2: *map e filter*
+- [] 8-3: *reduce*
+- [] 8-4: *spread operator, rest, destructuring, abbreviation object literal and default parameters*
+- [] 8-5: *Project - Zoo Functions*
 
 <!-- ##### Block 9: Jest, Javascript asynchronous, callbacks and promises
 - [x] 9-1: *First steps using Jest*
