@@ -59,7 +59,7 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 8-1: *forEach, find, some, every, sort*
 - [x] 8-2: *map e filter*
 - [x] 8-3: *reduce*
-- [] 8-4: *spread operator, rest, destructuring, abbreviation object literal and default parameters*
+- [x] 8-4: *spread operator, rest, destructuring, abbreviation object literal and default parameters*
 - [] 8-5: *Project - Zoo Functions*
 
 <!-- ##### Block 9: Jest, Javascript asynchronous, callbacks and promises
