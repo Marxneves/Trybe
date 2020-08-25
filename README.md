@@ -60,13 +60,12 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 8-2: *map e filter*
 - [x] 8-3: *reduce*
 - [x] 8-4: *spread operator, rest, destructuring, abbreviation object literal and default parameters*
-- [] 8-5: *Project - Zoo Functions*
+- [X] 8-5: *Project - Zoo Functions*
 
-<!-- ##### Block 9: Jest, Javascript asynchronous, callbacks and promises
-- [x] 9-1: *First steps using Jest*
-- [x] 9-2: *Javascript asynchronous and callbacks*
-- [x] 9-3: *Javascript Promises*
-- [x] 9-4: *Project - Shopping Cart* -->
+##### Block 9: Jest, Javascript asynchronous, callbacks and promises
+- [X] 9-1: *Javascript asynchronous and callbacks*
+- [] 9-2: *Javascript Promises*
+- [] 9-3: *Project - Shopping Cart*
 
 <!-- ##### Block 10: Testing asynchronous code with Jest
 - [x] 10-1: *Testing asynchronous code*
