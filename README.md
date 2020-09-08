@@ -69,8 +69,41 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 
 ##### Block 10: Testing asynchronous code with Jest
 - [x] 10-1: *First steps with Jest*
-- [] 10-2: *Testing asynchronous code*
-- [] 10-3: *Simulating behaviours*
-- [] 10-4: *Project asynchronous Jest*
+- [x] 10-2: *Testing asynchronous code*
+- [x] 10-3: *Simulating behaviours*
+- [] 10-4: *Project asynchronous jest and mocking*
+
+<!-- ##### Block 11: React
+- [x] 11-1: *Introduction to React*
+- [x] 11-2: *Components and props*
+- [x] 11-3: *Project - Movie Cards Library* -->
+
+<!-- ##### Block 12: React
+- [x] 12-1: *Components with status*
+- [x] 12-2: *React events and forms*
+- [x] 12-3: *Project - Movie Cards Library Stateful* -->
+
+<!-- ##### Block 13: React
+- [x] 13-1: *Improving component reuse: props.children and PropTypes*
+- [x] 13-2: *React component life cycle*
+- [x] 13-3: *React Router*
+- [x] 13-4: *Project - Movie Cards Library CRUD* -->
+
+<!-- ##### Block 14: Agile Methodologies
+- [x] 14-1: *Agile Methodologies: Scrum, Kanban*
+- [x] 14-2: *Group Project - Frontend Online Store* -->
+
+<!-- ##### Block 15: React Testing Library
+- [x] 15-1: *Testing React with the React Testing Library: testing use and routes*
+- [x] 15-2: *RTL Part 2: testing mocking and inputs*
+- [x] 15-3: *Project - React Tests* -->
+
+<!-- ##### Block 16: Redux
+- [x] 16-1: *Introduction to Redux*
+- [x] 16-2: *React with Redux - part 1*
+- [x] 16-3: *Practice*
+- [x] 16-4: *React with Redux - part 2: redux-thunk*
+- [x] 16-5: *Synchronous tests with React-Redux*
+- [x] 16-6: *Project - Table with data filters* -->
 
 
