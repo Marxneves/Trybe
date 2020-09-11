@@ -5,7 +5,7 @@ import PokemonsData from './Pokemon';
 
 class Pokedex extends React.Component {
   render() {
-    return <div>
+    return <>
       {pokemons.map(poke =>
         <PokemonsData
           key={poke.id}
@@ -16,7 +16,7 @@ class Pokedex extends React.Component {
           image={poke.image}
         />
       )}
-    </div>
+    </>
   }
 }
 
