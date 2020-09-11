@@ -76,7 +76,7 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 ##### Block 11: React
 - [x] 11-1: *Introduction to React*
 - [x] 11-2: *Components and props*
-- [] 11-3: *Project - Movie Cards Library*
+- [x] 11-3: *Project - Movie Cards Library*
 
 <!-- ##### Block 12: React
 - [x] 12-1: *Components with status*
