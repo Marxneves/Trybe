@@ -78,10 +78,10 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 11-2: *Components and props*
 - [x] 11-3: *Project - Movie Cards Library*
 
-<!-- ##### Block 12: React
+##### Block 12: React
 - [x] 12-1: *Components with status*
-- [x] 12-2: *React events and forms*
-- [x] 12-3: *Project - Movie Cards Library Stateful* -->
+- [] 12-2: *React events and forms*
+- [] 12-3: *Project - Movie Cards Library Stateful*
 
 <!-- ##### Block 13: React
 - [x] 13-1: *Improving component reuse: props.children and PropTypes*

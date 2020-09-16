@@ -1,0 +1,10 @@
+.next-button {
+  width: 120px;
+  height: 60px;
+  background-color: green;
+  color: white;
+}
+
+.disabled-btn {
+  background-color: grey;
+}
