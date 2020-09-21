@@ -4,6 +4,7 @@ class ButtonConsole extends React.Component {
   constructor() {
     super();
     this.handleClick = this.handleClick.bind(this);
+
     this.state = {
       Btn1: 0,
       Btn2: 0,
@@ -11,11 +12,16 @@ class ButtonConsole extends React.Component {
     }
   }
 
-  handleClick() {
-    this.setState((estadoAnterior, props) => ({
+  async handleClick({ target }) {
+
+    await this.setState((estadoAnterior, props) => ({
       [props.text]: estadoAnterior[props.text] + 1
     }));
-    if ((this.state[this.props.text] + 1) % 2 === 0) console.log("Color is green " + this.state[this.props.text]);
+    if ((this.state[this.props.text]) % 2 === 0) {
+      console.log("Color is green ");
+      console.log(target);
+      target.style.background = 'green';
+    };
   }
 
   render() {
