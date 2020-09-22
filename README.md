@@ -84,10 +84,9 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 12-3: *Project - Movie Cards Library Stateful*
 
 ##### Block 13: React
-- [x] 13-1: *Improving component reuse: props.children and PropTypes*
-- [] 13-2: *React component life cycle*
-- [] 13-3: *React Router*
-- [] 13-4: *Project - Movie Cards Library CRUD*
+- [x] 13-1: *React component life cycle*
+- [x] 13-2: *React Router*
+- [] 13-3: *Project - Movie Cards Library CRUD*
 
 <!-- ##### Block 14: Agile Methodologies
 - [x] 14-1: *Agile Methodologies: Scrum, Kanban*
