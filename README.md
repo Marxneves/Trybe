@@ -86,11 +86,11 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 ##### Block 13: React
 - [x] 13-1: *React component life cycle*
 - [x] 13-2: *React Router*
-- [] 13-3: *Project - Movie Cards Library CRUD*
+- [x] 13-3: *Project - Movie Cards Library CRUD*
 
-<!-- ##### Block 14: Agile Methodologies
+##### Block 14: Agile Methodologies
 - [x] 14-1: *Agile Methodologies: Scrum, Kanban*
-- [x] 14-2: *Group Project - Frontend Online Store* -->
+- [] 14-2: *Group Project - Frontend Online Store*
 
 <!-- ##### Block 15: React Testing Library
 - [x] 15-1: *Testing React with the React Testing Library: testing use and routes*
