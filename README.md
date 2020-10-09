@@ -94,7 +94,7 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 
 ##### Block 15: React Testing Library
 - [x] 15-1: *Testing React with the React Testing Library: testing use and routes*
-- [] 15-2: *RTL Part 2: testing mocking and inputs*
+- [x] 15-2: *RTL Part 2: testing mocking and inputs*
 - [] 15-3: *Project - React Tests*
 
 <!-- ##### Block 16: Redux
