@@ -95,14 +95,14 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 ##### Block 15: React Testing Library
 - [x] 15-1: *Testing React with the React Testing Library: testing use and routes*
 - [x] 15-2: *RTL Part 2: testing mocking and inputs*
-- [] 15-3: *Project - React Tests*
+- [x] 15-3: *Project - React Tests*
 
-<!-- ##### Block 16: Redux
+##### Block 16: Redux
 - [x] 16-1: *Introduction to Redux*
-- [x] 16-2: *React with Redux - part 1*
-- [x] 16-3: *Practice*
-- [x] 16-4: *React with Redux - part 2: redux-thunk*
-- [x] 16-5: *Synchronous tests with React-Redux*
-- [x] 16-6: *Project - Table with data filters* -->
+- [] 16-2: *React with Redux - part 1*
+- [] 16-3: *Practice*
+- [] 16-4: *React with Redux - part 2: redux-thunk*
+- [] 16-5: *Synchronous tests with React-Redux*
+- [] 16-6: *Project - Table with data filters*
 
 
