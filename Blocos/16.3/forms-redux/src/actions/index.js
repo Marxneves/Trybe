@@ -1,0 +1,1 @@
+export const addAssignment = (value, name) => ({ type: 'ADD_ELEMENT', value, name });
