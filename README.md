@@ -105,6 +105,18 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 - [x] 16-3: *Practice*
 - [x] 16-4: *React with Redux - part 2: redux-thunk*
 - [x] 16-5: *Synchronous tests with React-Redux*
-- [] 16-6: *Project - Table with data filters*
+- [x] 16-6: *Project - TrybeWallet*
+
+##### Block 17: Project Trivia Game
+- [x] 17: *Project Trivia Game*
+
+##### Block 18: Context API e React Hooks
+- [x] 18-1: *Context API React*
+- [] 18-2: *React Hooks - useState and useContext*
+- [] 18-3: *React Hooks - useEffect and custom Hooks*
+- [] 18-4: *Project - StarWars Datatable with Context API and Hooks*
+
+##### Block 19: Project 
+- [] 19: *Project Recipe App*
 
 
