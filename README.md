@@ -112,8 +112,8 @@ The Trybe program has more than **1,500 hours** of classroom and online classes 
 
 ##### Block 18: Context API e React Hooks
 - [x] 18-1: *Context API React*
-- [] 18-2: *React Hooks - useState and useContext*
-- [] 18-3: *React Hooks - useEffect and custom Hooks*
+- [x] 18-2: *React Hooks - useState and useContext*
+- [x] 18-3: *React Hooks - useEffect and custom Hooks*
 - [] 18-4: *Project - StarWars Datatable with Context API and Hooks*
 
 ##### Block 19: Project 
